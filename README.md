@@ -1,4 +1,5 @@
 # wcag-pl
+
 Tłumaczenie WCAG na język polski
 
 - nowe lub usunięte kryteria w wersji WCAG 2.2 znajdują się w folderze 22
