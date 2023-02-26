@@ -1,1 +1,1 @@
-Tłumaczenie "Jak spełnić WCAG" znajduje się na stronie: https://wcag.lepszyweb.pl/
+Tłumaczenie "Jak spełnić WCAG" na język polski znajduje się na stronie: https://wcag.lepszyweb.pl/
