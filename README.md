@@ -1,2 +1,4 @@
 # wcag22-pl
-Tłumaczenie WCAG 2.2 na język polski
+Tłumaczenie WCAG na język polski
+
+- wersja WCAG 2.2 znajduje się w folderze /22
