@@ -4,6 +4,5 @@
 
 Cel każdego pola zbierającego informacje o użytkowniku może być programowo określony , gdy:
 
-    Pole zbierające dane służy celowi określonemu w sekcji Przeznaczenie pól danych w komponentach interfejsu użytkownika ; oraz
-    Treść jest implementowana za pomocą technologii obsługującej określanie w polach formularza typu oczekiwanych danych.
-
+- Pole zbierające dane służy celowi określonemu w sekcji Przeznaczenie pól danych w komponentach interfejsu użytkownika ; oraz
+- Treść jest implementowana za pomocą technologii obsługującej określanie w polach formularza typu oczekiwanych danych.
