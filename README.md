@@ -1,2 +1,2 @@
-# WCAG22-pl
+# wcag22-pl
 Tłumaczenie WCAG 2.2 na język polski
