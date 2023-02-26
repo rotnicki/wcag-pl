@@ -1,6 +1,6 @@
 # wcag-pl
 
-Tłumaczenie WCAG na język polski
+Tłumaczenia WCAG na język polski.
 
 - tłumaczenie wersji WCAG 2.2 znajduje się w [folderze 22](https://github.com/rotnicki/wcag-pl/tree/master/22)
 - tłumaczenie wersji WCAG 2.1 znajduje się w [folderze 21](https://github.com/rotnicki/wcag-pl/tree/master/21)
