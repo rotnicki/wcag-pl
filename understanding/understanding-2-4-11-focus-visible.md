@@ -1,4 +1,4 @@
-# Zrozumiec KS 2.4.11 Wygląd fokusu
+# Zrozumieć kryteruym skcesu 2.4.11 Wygląd fokusu
 
 ## Intent
 
