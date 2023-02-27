@@ -1,0 +1,3 @@
+- Folder 20 zawiera treści wprowadzone w wersji WCAG 2.0
+- Folder 21 zawiera treści wprowadzone w wersji WCAG 2.1
+- Folder 22 zawiera treści wprowadzone w wersji WCAG 2.2
