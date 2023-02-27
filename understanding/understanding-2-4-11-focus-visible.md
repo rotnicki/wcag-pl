@@ -1,8 +1,10 @@
 # Zrozumieć kryteruym skcesu 2.4.11 Wygląd fokusu
 
-## Intent
+## Cel
 
-The purpose of this Success Criterion (SC) is to ensure a keyboard focus indicator is clearly visible and discernible. Focus Appearance is closely related to 2.4.7 Focus Visible and 1.4.11 Non-text Contrast. Focus Visible requires a visible focus indicator exists whilst it has keyboard focus, this SC defines a minimum level of visibility. Where Non-text Contrast requires a component to have adequate contrast against the background in each of its states, this SC requires sufficient contrast for the focus indicator itself.
+Celem tego Kryterium Sukcesu (SC) jest zapewnienie, że wskaźnik ostrości klawiatury jest wyraźnie widoczny i rozróżnialny. Wygląd wskaźnika skupienia jest ściśle związany z 2.4.7 Widoczność skupienia i 1.4.11 Kontrast nietekstowy. Focus Visible wymaga, aby widoczny wskaźnik fokusu istniał podczas gdy ma on fokus na klawiaturze, ten SC definiuje minimalny poziom widoczności. W przypadku gdy Non-text Contrast wymaga, aby komponent miał odpowiedni kontrast w stosunku do tła w każdym ze swoich stanów, ten SC wymaga wystarczającego kontrastu dla samego wskaźnika skupienia.
+
+> The purpose of this Success Criterion (SC) is to ensure a keyboard focus indicator is clearly visible and discernible. Focus Appearance is closely related to 2.4.7 Focus Visible and 1.4.11 Non-text Contrast. Focus Visible requires a visible focus indicator exists whilst it has keyboard focus, this SC defines a minimum level of visibility. Where Non-text Contrast requires a component to have adequate contrast against the background in each of its states, this SC requires sufficient contrast for the focus indicator itself.
 
 For sighted people with mobility impairments who use a keyboard or a device that utilizes the keyboard interface (such as a switch or voice input), knowing the current point of focus is very important. Visible focus must also meet the needs of users with low vision, who may also rely on the keyboard.
 
